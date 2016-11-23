@@ -1,0 +1,7 @@
+{
+  "name": "M2X Trigger Notification App",
+  "description": "AT&amp;T M2X Node.js Sample Trigger Notification app.",
+  "repository": "https://github.com/attm2x/sample-trigger-app",
+  "keywords": ["node.js", "m2x", "trigger"],
+  "addons": ["sendgrid:starter"]
+}
